@@ -8,6 +8,7 @@ files = os.listdir()
 
 #list of extension (You can add more if you want)
 extentions = {
+
     "images": [".jpg", ".png", ".jpeg", ".gif"],
     "videos": [".mp4", ".mkv"],
     "musics": [".mp3", ".wav"],
